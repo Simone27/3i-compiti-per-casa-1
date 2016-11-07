@@ -8,5 +8,5 @@ int main (){
             cout << num<<endl;
         }
     }
-    return 0;
+    return 1;
 }
